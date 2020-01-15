@@ -1,0 +1,208 @@
+
+.tblDatas table{    
+    border-top: solid 1px #b9bb94;
+    border-right: solid 1px #b9bb94;
+}
+
+.tblDatas th {
+    height: 20px;
+    font-size: 8pt;
+    vertical-align: middle;
+    background-color: #39424b;
+    border-left: solid 1px #b9bb94;
+    color: whitesmoke;
+    text-align: center;
+}
+.tblDatas tr{
+    height: 18px;
+    font-size: 10px;
+    vertical-align: middle;
+}
+.tblDatas tr:hover{
+    background-color: #D0D0D0;
+}
+
+.tblDatas td{
+    font-size: 10px;
+    vertical-align: middle;
+    border-left: solid 1px #b9bb94;
+    border-bottom: solid 1px #b9bb94;
+    height: 27px;
+    text-align: center;
+}
+
+/*=============================================*/
+
+
+#tblDatas1 table{    
+    border-top: solid 1px #b9bb94;
+    border-right: solid 1px #b9bb94;
+}
+
+#tblDatas1 th {
+    height: 20px;
+    font-size: 8pt;
+    vertical-align: middle;
+    background-color: #39424b;
+    border-left: solid 1px #b9bb94;
+    color: whitesmoke;
+    text-align: center;
+}
+#tblDatas1 tr{
+    height: 18px;
+    font-size: 10px;
+    vertical-align: middle;
+}
+#tblDatas1 tr:hover{
+    background-color: #D0D0D0;
+}
+
+#tblDatas1 td{
+    font-size: 10px;
+    vertical-align: middle;
+    border-left: solid 1px #b9bb94;
+    border-bottom: solid 1px #b9bb94;
+    height: 27px;
+    text-align: center;
+}
+
+
+/*=============================================*/
+
+#tblDatas2 table{    
+    border-top: solid 1px #b9bb94;
+    border-right: solid 1px #b9bb94;
+}
+
+#tblDatas2 th {
+    height: 20px;
+    font-size: 8pt;
+    vertical-align: middle;
+    background-color: #39424b;
+    border-left: solid 1px #b9bb94;
+    color: whitesmoke;
+    text-align: center;
+}
+#tblDatas2 tr{
+    height: 18px;
+    font-size: 10px;
+    vertical-align: middle;
+}
+#tblDatas2 tr:hover{
+    background-color: #D0D0D0;
+}
+
+#tblDatas2 td{
+    font-size: 10px;
+    vertical-align: middle;
+    border-left: solid 1px #b9bb94;
+    border-bottom: solid 1px #b9bb94;
+    height: 27px;
+    text-align: center;
+}
+
+
+/*=============================================*/
+
+#tblDatas3 table{    
+    border-top: solid 1px #b9bb94;
+    border-right: solid 1px #b9bb94;
+}
+
+#tblDatas3 th {
+    height: 20px;
+    font-size: 8pt;
+    vertical-align: middle;
+    background-color: #39424b;
+    border-left: solid 1px #b9bb94;
+    color: whitesmoke;
+    text-align: center;
+}
+#tblDatas3 tr{
+    height: 18px;
+    font-size: 10px;
+    vertical-align: middle;
+}
+#tblDatas3 tr:hover{
+    background-color: #D0D0D0;
+}
+
+#tblDatas3 td{
+    font-size: 10px;
+    vertical-align: middle;
+    border-left: solid 1px #b9bb94;
+    border-bottom: solid 1px #b9bb94;
+    height: 27px;
+    text-align: center;
+}
+
+/*=============================================*/
+
+.tblDatasTotal table{    
+    border-top: solid 1px #b9bb94;
+    border-right: solid 1px #b9bb94;
+}
+
+.tblDatasTotal th {
+    height: 20px;
+    font-size: 8pt;
+    vertical-align: middle;
+    background-color: #39424b;
+    border-left: solid 1px #b9bb94;
+    color: whitesmoke;
+    text-align: center;
+}
+.tblDatasTotal tr{
+    height: 18px;
+    font-size: 10px;
+    vertical-align: middle;
+}
+.tblDatasTotal tr:hover{
+    background-color: #D0D0D0;
+}
+
+.tblDatasTotal td{
+    font-size: 10px;
+    vertical-align: middle;
+    border-left: solid 1px #b9bb94;
+    border-bottom: solid 1px #b9bb94;
+    height: 27px;
+    text-align: center;
+}
+
+
+/*
+<table style="width: 100%" cellpadding="0" cellspacing="0">
+    <th>
+        asd
+    </th>
+    <th>
+        asda
+    </th>
+    <th>
+        asds
+    </th>
+    <tr>
+        <td>
+            asdasd
+        </td>
+        <td>
+            asdasd
+        </td>
+        <td>
+            asdasd
+        </td>
+    </tr>
+    <tr>
+        <td>
+            asdasd
+        </td>
+        <td>
+            asdasd
+        </td>
+        <td>
+            asdasd
+        </td>
+    </tr>
+</table>
+*/

@@ -1,0 +1,29 @@
+<!doctype html>
+<head>
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+  <script src="../raphael-min.js"></script>
+  <script src="../morris.js"></script>
+  <link rel="stylesheet" href="../morris.css">
+  
+  <script type="text/javascript">    	
+	    $(document).ready(function(){
+	    	Morris.Donut({
+			  element: 'graph',
+			  data: [
+				{value: 70, label: 'foo'},
+				{value: 15, label: 'bar'},
+				{value: 10, label: 'baz'},
+				{value: 5, label: 'A really really long label'}
+			  ],
+			  formatter: function (x) { return x + "%"}
+			}).on('click', function(i, row){
+			  console.log(i, row);
+			});
+	    });
+    </script>
+</head>
+<body>
+<h1></h1>
+<div id="graph"></div>
+
+</body>
